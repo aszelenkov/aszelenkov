@@ -39,25 +39,18 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aszelenkov&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aszelenkov&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats) 
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=aszelenkov&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=aszelenkov&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=aszelenkov&show_icons=true" />
-</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aszelenkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aszelenkov&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszelenkov&theme=apprentice)
 
-[![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov)
 
-![](https://komarev.com/ghpvc/?username=aszelenkov)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aszelenkov&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aszelenkov&theme=apprentice)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aszelenkov&theme=apprentice)
+
+[![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov) ![](https://komarev.com/ghpvc/?username=aszelenkov)
+
 
 
 
