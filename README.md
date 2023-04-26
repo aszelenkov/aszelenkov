@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+Frontend" alt="Typing SVG" /></a></h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmExYzE5ZGQwNzQ3M2Y2M2Q0NTEwYThjZTJlMDEyNmYxMjJkYTU4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/d8KefZiJ2ae0VMAmsi/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
