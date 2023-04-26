@@ -51,10 +51,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov) ![](https://komarev.com/ghpvc/?username=aszelenkov)
 
-
-
-
----
-
-### :writing_hand: Blog Posts :
-
