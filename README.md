@@ -22,17 +22,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,redux,webpack,html,css,git,github,bash,codepen,figma,vscode,wordpress,raspberrypi)](https://skillicons.dev)
 
 ---
 
@@ -44,9 +34,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aszelenkov&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszelenkov&theme=apprentice)
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aszelenkov&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aszelenkov&theme=apprentice)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aszelenkov&theme=apprentice)
 
 [![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov) ![](https://komarev.com/ghpvc/?username=aszelenkov)
