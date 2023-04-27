@@ -37,5 +37,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aszelenkov&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aszelenkov&theme=apprentice)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aszelenkov&theme=apprentice)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aszelenkov&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov) ![](https://komarev.com/ghpvc/?username=aszelenkov)
+
+
 
