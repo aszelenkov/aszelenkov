@@ -1,4 +1,4 @@
-e<h1 align="center">Hi there, I'm <a href="https://github.com/aszelenkov" target="_blank">Aleksandr</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/aszelenkov" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a></h3>
 
@@ -33,7 +33,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </p>
 </details>
 
-  <a href="[[https://github.com/aszelenkov?tab=repositories](https://github.com/aszelenkov?tab=repositories)](https://github.com/aszelenkov?tab=repositories)&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="[[https://github.com/aszelenkov?tab=repositories](https://github.com/aszelenkov?tab=repositories)](https://github.com/aszelenkov?tab=repositories)"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 ### :hammer_and_wrench: Languages and Tools :
