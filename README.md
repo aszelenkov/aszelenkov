@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/aszelenkov" target="_blank">Aleksandr</a> 
+e<h1 align="center">Hi there, I'm <a href="https://github.com/aszelenkov" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a></h3>
 
@@ -24,7 +24,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <summary><h2>📘 Мои лучшие проекты</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/aszelenkov/react-mesto-api-full-gha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-mesto-api-full-gha"></a>
+    <a href="https://github.com/aszelenkov/react-mesto-api-full-gha"><img width="278" src="https://aszelenkov-github-readme-stats.vercel.app/api/pin/?username=aszelenkov&repo=react-mesto-api-full-gha&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-mesto-api-full-gha"></a>
     <a href="https://github.com/aszelenkov/movies-explorer-frontend"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer-frontend"></a>
     <a href="https://github.com/aszelenkov/movies-explorer"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer"></a>
     <a href="https://github.com/aszelenkov/movies-explorer-api"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer-api"></a>
