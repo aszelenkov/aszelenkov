@@ -20,22 +20,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<details open>
-  <summary><h2>📘 Мои лучшие проекты</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/aszelenkov/react-mesto-api-full-gha"><img width="278" src="https://aszelenkov-github-readme-stats.vercel.app/api/pin/?username=aszelenkov&repo=react-mesto-api-full-gha&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-mesto-api-full-gha"></a>
-    <a href="https://github.com/aszelenkov/movies-explorer-frontend"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer-frontend"></a>
-    <a href="https://github.com/aszelenkov/movies-explorer"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer"></a>
-    <a href="https://github.com/aszelenkov/movies-explorer-api"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="movies-explorer-api"></a>
-    <a href="https://github.com/aszelenkov/express-mesto-gha"><img width="278" src="SRC_FOR_YOUR_IMAGE" alt="express-mesto-gha"></a>
-    <!-- Добавьте дополнительные ссылки на репозитории здесь -->
-  </p>
-</details>
-
-  <a href="https://github.com/aszelenkov?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,redux,webpack,html,css,git,github,bash,codepen,figma,vscode,wordpress,raspberrypi)](https://skillicons.dev)
