@@ -22,7 +22,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,redux,webpack,html,css,git,github,bash,codepen,figma,vscode,wordpress,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,webpack,express,mongodb,vite,html,css,sass,postman,nginx,figma)](https://skillicons.dev)
 
 ---
 
@@ -50,7 +50,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aszelenkov&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![codewars](https://www.codewars.com/users/aszelenkov/badges/small)](https://www.codewars.com/users/aszelenkov) ![](https://komarev.com/ghpvc/?username=aszelenkov)
+[![codewars](https://www.codewars.com/users/aszelenkov/badges/large)](https://www.codewars.com/users/aszelenkov)
+
+![](https://komarev.com/ghpvc/?username=aszelenkovs&style=for-the-badge&base=889)
 
 
 
